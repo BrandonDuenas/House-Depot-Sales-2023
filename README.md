@@ -22,4 +22,12 @@ For the Data preperation and processing I completed the following:
   3. The raw data was then meticulously cleaned and calculated to provide the subsequent totals.
   4. Data was then transfered to Tableau Public for  data visualization and analysis.
 
-  5. 
+### Exploritory Data Analysis
+
+After meeting with the company owners we were looking to answer the following questions:
+  -  What was the total for all the products sold?
+  -  What was the total cost of all products?
+  -  What was the total amount of warrentys sold?
+  -  What was the total amount of fees paid to Square space?
+  -  What was the total loss in products that arrived damaged?
+  -  What was the total Profit made?
