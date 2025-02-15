@@ -1,8 +1,23 @@
 # House Depot Sales For The Year 2023
+---
+
+### Table of Contents
+
+- [Project Overview](#project_overview)
+- [Data Sources](#data_sources)
+- [Data Preperation](#data_preperation)
+- [Exploratory Data Analysis](#exporatory_data_analysis
+- [Data Analysis](#data_analysis)
+- [Results](#results)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+- Sources
+
+
 
 ### Project Overview
 
-This Project provides a comprehensive analysis of Sales Data gathered by the Company House Depot for the year of 2023, by leveraging the process data cleaning and data manipulation, we look to identify trends and insights to provide data driven decision making.
+This Project provides a comprehensive analysis of Sales Data gathered by the company House Depot for the year of 2023, by leveraging the process of data cleaning and data manipulation, we look to identify trends and insights to provide data driven decision making.
 
 ### Data Sources
 
