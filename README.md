@@ -6,7 +6,7 @@
 - [Project Overview](#project_overview)
 - [Data Sources](#data_sources)
 - [Data Preperation](#data_preperation)
-- [Exploratory Data Analysis](#exporatory_data_analysis
+- [Exploratory Data Analysis](#exporatory_data_analysis)
 - [Data Analysis](#data_analysis)
 - [Results](#results)
 - [Recommendations](#recommendations)
