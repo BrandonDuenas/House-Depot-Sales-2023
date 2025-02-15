@@ -50,3 +50,10 @@ For the data analysis I used various formulas to calculate totals including:
 ```
 
 ### Results
+  - The total amount of products sold was $263,443
+  - The total cost of goods was $145,176
+  - The total amount of warrentys sold was $2,930
+  - The total amount of fees charged by Square space was $3,397
+  - The total amount of profit lossed to damaged products was $20,361
+  - The total amount of profit was $136,547
+  - The average amount of days in inventory was
