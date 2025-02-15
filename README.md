@@ -57,3 +57,10 @@ For the data analysis I used various formulas to calculate totals including:
   - The total amount of profit lossed to damaged products was $20,361
   - The total amount of profit was $136,547
   - The average amount of days in inventory was
+
+### Recommendations
+
+Through the analysis of House Depots sales data from 2023. Somee key areas for growth were identified includeding warrenty sales, product cost optomization, and finding an avenue to profit off damaged products recieved.
+  - For warrenty sales I recommeded to: provide more warrenty knowledge, highlight peace of mind the warrenty provides, focus on the fincial protection the warrenty provides, show testimonials from customers that have purchased the warrenty, and provide deal bundles at point of purhcase.
+  - For Product Cost Optimization I recommeded to analyze bids to get the best prices on productcs. They can do this by relecting on the Tableau Dashboard and analyzing past bids.
+  - To Maximize on profits we came up with a couple of options to deal with damaged products
