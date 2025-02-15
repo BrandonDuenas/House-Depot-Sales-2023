@@ -31,3 +31,22 @@ After meeting with the company owners we were looking to answer the following qu
   -  What was the total amount of fees paid to Square space?
   -  What was the total loss in products that arrived damaged?
   -  What was the total Profit made?
+  -  what was the average amount that products spend in inventory
+    
+### Data Analysis
+
+For the data analysis I used various formulas to calculate totals including:
+``` Google Sheets
+=SUM(cell_range)
+```
+``` Google Sheets
+ =SUMIF(range, criteria, [sum_range])
+```
+``` Google Sheets
+=average(cell_range)
+```
+``` Google Sheets
+=DATEDIF(start_date, end_date, unit)
+```
+
+### Results
