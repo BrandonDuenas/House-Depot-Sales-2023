@@ -26,7 +26,7 @@ Sales Data: House Depot Provided me with the raw data located on a internal sale
 ### Tools Used
 
   - Google Sheets
-    - [Downnload Here](file:///Users/brandonduenas/Downloads/Yearly%20HD/Sheet1.html)
+    - [Downnload Here](https://github.com/file:///Users/brandonduenas/Downloads/Yearly%20HD/Sheet1.html)
 
   - Tableau Public
     - [Download Here](https://public.tableau.com/views/YearlysalesHouseDepot/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
