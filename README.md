@@ -18,7 +18,7 @@
 ### Project Overview
 ---
 
-This Project provides a comprehensive analysis of House Depot's 2023 sales data. Utilizing data cleaning and manipulation techniques, we look to identify sales trends and insights to provide the busisness with increased sales knowledge for future strong decision-making.
+This Project provides a comprehensive analysis of House Depot's 2023 sales data. Utilizing data cleaning and manipulation techniques, we look to identify sales trends and insights to provide the busisness with increased sales knowledge for future decision-making.
 
 ![Dashboard 1-3](https://github.com/user-attachments/assets/e93747eb-c696-43f4-a308-32ce5e121337)
 
