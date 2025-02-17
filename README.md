@@ -16,6 +16,7 @@
 
 
 ### Project Overview
+---
 
 This Project provides a comprehensive analysis of Sales Data gathered by the company House Depot for the year of 2023, by leveraging the process of data cleaning and data manipulation, we look to identify trends and insights to provide data driven decision making.
 
@@ -52,7 +53,7 @@ After meeting with the company owners we were looking to answer the following qu
   -  What was the total amount of fees paid to Square space?
   -  What was the total loss in products that arrived damaged?
   -  What was the total Profit made?
-  -  what was the average amount that products spend in inventory
+  -  What was the average amount that products spend in inventory
     
 ### Data Analysis
 
@@ -77,7 +78,7 @@ For the data analysis I used various formulas to calculate totals including:
   - The total amount of fees charged by Square space was $3,397
   - The total amount of profit lossed to damaged products was $20,361
   - The total amount of profit was $136,547
-  - The average amount of days in inventory was
+  - The average amount of time products spent in the inventory was 47 days.
 
 ### Recommendations
 
