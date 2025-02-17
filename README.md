@@ -26,7 +26,7 @@ This Project provides a comprehensive analysis of House Depot's 2023 sales data.
 
 ### Data Sources
 
-Sales Data: House Depot Provided me with the raw data located on a internal sales database detailing sales from the year 2023.
+Sales Data: Raw sales data for 2023 was extracted from House Depot's internal database and was then cleaned and transformed in preparation for analysis.
 
 ### Tools Used
 
