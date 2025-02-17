@@ -19,6 +19,10 @@
 
 This Project provides a comprehensive analysis of Sales Data gathered by the company House Depot for the year of 2023, by leveraging the process of data cleaning and data manipulation, we look to identify trends and insights to provide data driven decision making.
 
+![Dashboard 1-3](https://github.com/user-attachments/assets/e93747eb-c696-43f4-a308-32ce5e121337)
+
+
+
 ### Data Sources
 
 Sales Data: House Depot Provided me with the raw data located on a internal sales database detailing sales from the year 2023.
