@@ -17,7 +17,7 @@
 ### Project Overview
 ---
 
-This Project provides a comprehensive analysis of House Depot's 2023 sales data. Utilizing data cleaning and manipulation techniques, we look to identify sales trends and insights to provide the busisness with increased sales knowledge for future decision-making.
+This Project provides a comprehensive analysis of House Depot's 2023 sales data. Utilizing data cleaning and manipulation techniques, we look to identify sales trends and insights to provide the business with increased sales knowledge for future decision-making.
 
 ![Dashboard 1-3](https://github.com/user-attachments/assets/e93747eb-c696-43f4-a308-32ce5e121337)
 
@@ -86,17 +86,17 @@ Through the analysis of House Depot's 2023 sales data, several key areas for gro
   - For warrenty sales I recommeded to:
     - Provide more warranty information to customers.
     - Highlight the peace of mind the warranty provides to customers.
-    - Emphasize the fincial protection offered by warranty.
+    - Emphasize the financial protection offered by warranty.
     - show testimonials from customers who have purchased the warranty
     - Offer bundled deals at point of purhcase.
  
-  - For product cost optimization, I recommeded to analyze bids to secure the best possible prices on productcs. This can accomplished by reviewing the Tableau Dashboard and analyzing past bids.
+  - For product cost optimization, I recommeded to analyze bids to secure the best possible prices on products. This can accomplished by reviewing the Tableau Dashboard and analyzing past bids.
 
   - To maximize profits from damaged products, I suggested two options:
     - Selling products to local rage rooms.
     - Parting out usable components for online resale.
 
-By following these stragies House Depot will enhance profits and buisness growth for the years to come.
+By following these stragies House Depot will enhance profits and business growth for the years to come.
 
 ### Limitations
 
