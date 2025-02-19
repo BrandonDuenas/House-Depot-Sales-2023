@@ -37,11 +37,11 @@ Sales Data: Raw sales data for 2023 was extracted from House Depot's internal da
 
 ### Data Preperation 
 
-For the Data preperation and processing I completed the following:
-  1. I first complied all of the data onto a new speadsheet to not modify the original spreadsheet provided by Company.
-  2. Then I made all of the data unifrom by changing everything to the same: font, font size, alighnment, and borders.
-  3. The raw data was then meticulously cleaned and calculated to provide the subsequent totals.
-  4. Data was then transfered to Tableau Public for  data visualization and analysis.
+For the data preparation and processing I completed the following:
+  1. I first compiled all of the data onto a new spreadsheet to avoid modifing the original spreadsheet provided by Company.
+  2. Then I made all of the data uniform by changing everything to the same: font, font size, alighnment, and borders.
+  3. The raw data was then meticulously cleaned and processed to calculate the necessary totals.
+  4. Finally, the data was then transferred to Tableau Public for  data visualization and analysis.
 
 ### Exploritory Data Analysis
 
