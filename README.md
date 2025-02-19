@@ -48,11 +48,11 @@ For the data preparation and processing I completed the following:
 After meeting with the company owners we sought to answer the following questions:
   -  What was the total revenue from all products sold?
   -  What was the total cost of all products?
-  -  What was the total amount of warrentys sold?
-  -  What was the total amount of fees paid to Square space?
-  -  What was the total loss in products that arrived damaged?
-  -  What was the total Profit made?
-  -  What was the average amount that products spend in inventory
+  -  What was the total revenue from warrentys sold?
+  -  What were the total fees paid to Squarespace?
+  -  What was the total loss due to damaged products?
+  -  What was the total Profit?
+  -  What was the average time products spent in inventory?
     
 ### Data Analysis
 
