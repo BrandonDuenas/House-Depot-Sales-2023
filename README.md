@@ -100,5 +100,5 @@ By following these strategies House Depot will enhance profits and business grow
 
 ### Limitations
 
-There were some limmitations to the sales data including incomplete or missing values. Those Values were removed or highlighted to provide unskewed results.
+There were some limitations to the sales data including incomplete or missing values. These values were either removed or highlighted to ensure unbiased results.
 
