@@ -88,7 +88,7 @@ Through the analysis of House Depot's 2023 sales data, several key areas for gro
     - Highlight the peace of mind the warranty provides to customers.
     - Emphasize the financial protection offered by warranty.
     - show testimonials from customers who have purchased the warranty
-    - Offer bundled deals at point of purhcase.
+    - Offer bundled deals at point of purchase.
  
   - For product cost optimization, I recommeded to analyze bids to secure the best possible prices on products. This can accomplished by reviewing the Tableau Dashboard and analyzing past bids.
 
@@ -96,7 +96,7 @@ Through the analysis of House Depot's 2023 sales data, several key areas for gro
     - Selling products to local rage rooms.
     - Parting out usable components for online resale.
 
-By following these stragies House Depot will enhance profits and business growth for the years to come.
+By following these strategies House Depot will enhance profits and business growth in the years to come.
 
 ### Limitations
 
