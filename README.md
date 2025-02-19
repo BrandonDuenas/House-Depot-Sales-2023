@@ -48,7 +48,7 @@ For the data preparation and processing I completed the following:
 After meeting with the company owners we sought to answer the following questions:
   -  What was the total revenue from all products sold?
   -  What was the total cost of all products?
-  -  What was the total revenue from warrentys sold?
+  -  What was the total revenue from warrenties sold?
   -  What were the total fees paid to Squarespace?
   -  What was the total loss due to damaged products?
   -  What was the total Profit?
@@ -56,7 +56,7 @@ After meeting with the company owners we sought to answer the following question
     
 ### Data Analysis
 
-For the data analysis I used various formulas to calculate totals including:
+For the data analysis, I used various formulas to calculate totals, including:
 ``` Google Sheets
 =SUM(cell_range)
 ```
@@ -71,13 +71,13 @@ For the data analysis I used various formulas to calculate totals including:
 ```
 
 ### Results
-  - The total amount of products sold was $263,443
+  - The total revenue from products sold was $263,443
   - The total cost of goods was $145,176
-  - The total amount of warrentys sold was $2,930
-  - The total amount of fees charged by Square space was $3,397
-  - The total amount of profit lossed to damaged products was $20,361
+  - The total revenue from warrenties sold was $2,930
+  - The total fees paid to Squarespace were $3,397
+  - The total loss due to damaged products was $20,361
   - The total amount of profit was $136,547
-  - The average amount of time products spent in the inventory was 47 days.
+  - The average time products spent in inventory was 47 days.
 
 ### Recommendations
 
