@@ -11,7 +11,6 @@
 - [Results](#results)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
-- [References](#references)
 
 
 
@@ -94,6 +93,3 @@ By following these stragies House Depot will enhance profits and buisness growth
 
 There were some limmitations to the sales data including incomplete or missing values. Those Values were removed or highlighted to provide unskewed results.
 
-### References
-
-1. Google Gemini 2.0
